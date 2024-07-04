@@ -1,0 +1,68 @@
+body{
+    margin: 0;
+}
+
+h1{
+    padding: 17px;
+}
+
+text{
+    margin: 0%;
+    padding-top: 20px;
+}
+
+header{ 
+    height: 200px; /*Высота блока*/
+    background-color: rgb(196, 184, 27); /*Цвет фона*/
+    color: rgb(81, 36, 133); /*Цвет текста*/
+    text-align: center;
+    font-size: x-large;
+
+    font-family:Georgia, 'Times New Roman', Times, serif
+
+}
+main{
+    height: 600px; /*высота блока*/
+    background-color: cornflowerblue; /*Цвет фона*/
+    color: rgb(119, 0, 255); /*Цвет текста*/
+    text-align: left;
+    font-size: x-large;
+
+    background-image: url(https://mavecloud.s3mts.ru/storage/podcasts/89996c02-b020-44dd-8c86-9584bdf78628/images/87ee993f-fc8c-4eea-83df-918cdd4ade25_600.jpg);
+    background-size: 98%;
+    padding: 10px;
+    display: flex;
+text-shadow: 1px 5px 20px rgb(0, 26, 255)
+font-family:Georgia, 'Times New Roman', Times, serif
+
+}
+:left{
+ width: 50%;   
+ font-size: 20px;
+}
+
+:right{
+width: 50%;
+}
+
+
+
+footer{
+    height: 300px; /*высота блока*/
+    background-color: rgb(0, 235, 70); /*Цвет фона*/
+    color: rgb(14, 151, 110); /*Цвет текста*/
+    text-align: center;
+    font-size: x-large;
+    padding-top: 130px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+
+}
+
+.social imj{
+width: 100px;
+padding-left: 100px;
+}
+
+.social{
+    list-style: none;
+}
